@@ -131,6 +131,9 @@ Maintains a 99% success rate in cleaning videos without corrupting the original 
 **Efficiency Metric:**  
 Batch processing can handle up to 100 videos per run with minimal delays.
 
+**Quality Metric:**  
+Achieves near-perfect video inpainting, preserving both visual quality and fluidity in motion scenes.
+
 
 ---
 
@@ -181,5 +184,4 @@ Batch processing can handle up to 100 videos per run with minimal delays.
         <br><span style="color:#f5a623;">★★★★★</span>
          </p>
 
-**Quality Metric:**  
-Achieves near-perfect video inpainting, preserving both visual quality and fluidity in motion scenes.
+
